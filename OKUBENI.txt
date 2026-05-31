@@ -1,0 +1,35 @@
+ELYRION'A HOŞ GELDİN — Oyuncu Hazırlık Rehberi
+Karanlık Doğuş'un Yankıları kampanyası · D&D 5e
+=================================================
+
+NASIL AÇILIR
+------------
+1) Bu klasörü bilgisayarına çıkar (zip'ten çıkar).
+2) "index.html" dosyasına çift tıkla — tarayıcıda açılır.
+3) Kapaktaki "Kapıyı Arala" düğmesinden başla; sayfalar bölüm bölüm ilerler.
+
+PAYLAŞMAK İSTERSEN
+------------------
+- Tüm klasörü oyuncularına gönder (zip olarak), herkes index.html'i açsın.
+- İnternette yayınlamak istersen: klasörü olduğu gibi bir statik site
+  servisine (GitHub Pages, Netlify, itch.io vb.) yükleyebilirsin.
+
+İÇİNDEKİLER
+-----------
+index.html ............ Kapak
+dunya.html ............ I.   Elyrion
+karanlik-dogus.html ... II.  Karanlık Doğuş
+simdi.html ............ III. Şu An: 1492
+curume.html ........... IV.  Çürüme
+uluslar.html .......... V.   On İki Ulus
+tanrilar.html ......... VI.  Tanrılar & Kadim Varlıklar
+irklar.html ........... VII. Halklar & Irklar
+karakter.html ......... VIII.Karakterini Yarat (+ Ton & Masa)
+assets/ ............... görseller, stil ve betik dosyaları
+
+NOT
+---
+Bu rehber SPOILER İÇERMEZ. Yalnızca karakterlerin de bileceği
+"herkesçe bilinen" bilgileri içerir. Kampanyanın sırları DM'dedir.
+
+Evren ve görseller: Mevlüt Furkan İnce — "Karanlık Hasar".
